@@ -259,6 +259,27 @@ export default {
         icon : 'mdi-css',
         value: 80,
       },{
+        title: 'React.js',
+        icon : 'mdi-css',
+        value: 80,
+      },{
+        title: 'Next.js',
+        icon : 'mdi-css',
+        value: 80,
+      },{
+        title: 'Redis',
+        icon : 'mdi-css',
+        value: 80,
+      },{
+        title: 'Dart',
+        icon : 'mdi-css',
+        value: 80,
+      },
+      {
+        title: 'Redux toolkit',
+        icon : 'mdi-css',
+        value: 80,
+      },{
         title: 'Rest API',
         icon : 'mdi-css',
         value: 80,
